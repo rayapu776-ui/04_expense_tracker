@@ -1,81 +1,60 @@
-Expense Tracker 💰
+# Expense Tracker
 
-A simple and responsive Expense Tracker web application built using HTML, CSS, and JavaScript. It helps users add expenses, view a list of all expenses, and automatically calculate the total amount spent.
+A simple and responsive Expense Tracker web application built using **HTML, CSS, and JavaScript**. This project helps users add expenses, view a running expense list, and track the total amount in a clean and user-friendly interface.
 
+## Features
 
-🚀 Features
-➕ Add new expenses
-💵 Enter expense name and amount
-📋 Display all added expenses
-🧮 Automatically calculate total expenses
-🗑️ Delete expenses (if implemented)
-📱 Responsive design
-🌙 Modern dark theme UI
+- Add new expenses with an expense name and amount.
+- Display all added expenses in a list.
+- Automatically calculate and update the total expense amount.
+- Simple dark-themed user interface.
+- Beginner-friendly project structure using vanilla JavaScript.
 
+## Technologies Used
 
-🛠️ Built With
-HTML5 – Structure
-CSS3 – Styling & Responsive Design
-JavaScript (ES6) – Functionality & DOM Manipulation
+- HTML5
+- CSS3
+- JavaScript
 
+## Project Structure
 
-📂 Project Structure
+```bash
 Expense-Tracker/
-│── index.html
-│── style.css
-│── script.js
-│── screenshot.png
-└── README.md
+├── index.html
+├── style.css
+└── script.js
+```
 
+## How It Works
 
-
-▶️ How to Run
-1. Clone this repository
-  git clone https://github.com/your-username/expense-tracker.git
-2. Open the project folder.
-3. Double-click index.html or open it with Live Server in VS Code.
-
-
-📖 How It Works
-1. Enter an Expense Name.
-2. Enter the Amount.
-3. Click the Add Expense button.
+1. Enter the expense name.
+2. Enter the amount.
+3. Click the **Add Expense** button.
 4. The expense is added to the list.
-5. The Total Expense is updated automatically.
+5. The total amount updates automatically.
 
+## Getting Started
 
+1. Download or clone the project.
+2. Open the project folder.
+3. Run the `index.html` file in your browser.
 
-🎯 Learning Objectives
-This project helped me practice:
-DOM Manipulation
-Event Handling
-Form Validation
-JavaScript Arrays
-Dynamic UI Updates
-Responsive Web Design
+## Future Improvements
 
+- Add delete expense functionality.
+- Add local storage support to save data.
+- Add expense categories.
+- Add date-wise expense tracking.
+- Add filter and search options.
 
-🔮 Future Improvements
-Edit expenses
-Expense categories
-Local Storage support
-Filter/Search expenses
-Monthly expense summary
-Charts and analytics
-Export expenses to PDF or CSV
+## Screenshot
 
+Add your project screenshot here in the repository, for example:
 
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
+```md
+![Expense Tracker Screenshot](./screenshot.png)
+```
 
-📄 License
+## Author
 
-This project is licensed under the MIT License.
-
-👨‍💻 Author
-
-Apu Ray
-
-🌐 Passionate Full stack Web Development
-💻 Learning iOS App Development
-⭐ If you like this project, don't forget to give it a Star on GitHub!
+Created by the project developer as a practice project for learning JavaScript DOM manipulation, event handling, and basic UI design.
