@@ -11,10 +11,14 @@ A simple and responsive Expense Tracker web application built using HTML, CSS, a
 🗑️ Delete expenses (if implemented)
 📱 Responsive design
 🌙 Modern dark theme UI
+
+
 🛠️ Built With
 HTML5 – Structure
 CSS3 – Styling & Responsive Design
 JavaScript (ES6) – Functionality & DOM Manipulation
+
+
 📂 Project Structure
 Expense-Tracker/
 │── index.html
@@ -22,27 +26,35 @@ Expense-Tracker/
 │── script.js
 │── screenshot.png
 └── README.md
+
+
+
 ▶️ How to Run
-Clone this repository
-git clone https://github.com/your-username/expense-tracker.git
-Open the project folder.
-Double-click index.html or open it with Live Server in VS Code.
+1. Clone this repository
+  git clone https://github.com/your-username/expense-tracker.git
+2. Open the project folder.
+3. Double-click index.html or open it with Live Server in VS Code.
+
+
 📖 How It Works
-Enter an Expense Name.
-Enter the Amount.
-Click the Add Expense button.
-The expense is added to the list.
-The Total Expense is updated automatically.
+1. Enter an Expense Name.
+2. Enter the Amount.
+3. Click the Add Expense button.
+4. The expense is added to the list.
+5. The Total Expense is updated automatically.
+
+
+
 🎯 Learning Objectives
-
 This project helped me practice:
-
 DOM Manipulation
 Event Handling
 Form Validation
 JavaScript Arrays
 Dynamic UI Updates
 Responsive Web Design
+
+
 🔮 Future Improvements
 Edit expenses
 Expense categories
@@ -51,8 +63,9 @@ Filter/Search expenses
 Monthly expense summary
 Charts and analytics
 Export expenses to PDF or CSV
-🤝 Contributing
 
+
+🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
 
 📄 License
